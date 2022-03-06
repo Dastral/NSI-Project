@@ -1,0 +1,78 @@
+h2{
+
+    text-align: center;
+    font-family:'Roboto';
+
+    background: #105cad10
+    
+}
+
+
+#morpion3{
+
+    width: 300px;
+    position: absolute;
+    top: 170%;
+            border: 2px ridge rgb(0, 0, 0);
+            left: 400px;
+            
+   
+
+}
+
+p{
+
+    text-align: center;
+    font-family:'open sans';
+    font-size: 20px;
+    margin: 9%;
+    border: 2px ridge rgb(0, 0, 0);
+
+    
+
+
+
+}
+
+#morpion4{
+
+    width: 250px;
+    position: absolute;
+    top: 17%;
+            
+            right: 400px;
+   
+
+}
+div {
+    background-image: url("https://www.influenth.com/wp-content/uploads/2019/06/Soudan-UNE.jpg");
+    position:relative;
+    height:100px;
+  
+
+
+}
+
+.button {
+    background-color: #1c87c9;
+    box-shadow: 0 5px 0 #105cad;
+    color: white;
+   padding: 1em ;
+   position: relative;
+   text-decoration: aqua;
+   display: inline-block;
+
+   margin: 20px;
+   font-family:'Roboto';
+}
+
+h3{
+
+
+    text-align: center;
+    font-family:'Roboto';
+    margin: 6%;
+
+    
+
+}
