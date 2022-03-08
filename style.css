@@ -9,9 +9,9 @@
    position: relative;
    text-decoration: aqua;
    display: inline-block;
-   left: 25%;
-   top: 1%;
-   margin: 20px;
+   left: 15%;
+   top: 15%;
+   margin:10px;
    font-family:'Roboto';
 }
 
@@ -25,7 +25,23 @@ div {
 
 
 }
+h1{
 
+
+
+
+text-align: center
+
+
+}
+#morpion1{
+    width: 300px;
+    position: absolute;
+    top: 35%;
+            
+            right: 38%;
+
+}
 
 
 
